@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <title>Portfólio</title>
+</head>
+
+<body>
+  <canvas id="particulas"></canvas>
+
+  <h1 class="titulo">Neres.Exe</h1>
+  <h3 class="subtitulo">Desenvolvedor Front-End/Ui/UX</h3>
+
+  <!-- Menu de navegação -->
+  <section class="secao-informacao">
+    <a onclick="trocarTexto()" class="aboutMe">Sobre mim</a><br>
+    <a onclick="trocarTextoProjects()" class="projects">Projetos</a><br>
+    <a onclick="trocarTextoSkill()" class="technical-skills">Habilidades técnicas</a><br>
+    <a onclick="trocarTextoContato()" class="contact">Contato</a>
+  </section>
+
+  <!-- Área que muda o conteúdo -->
+  <div id="conteudo"></div>
+
+<section class="container-apresentacao">
+  <p class="paragrafo-apresentacao">
+    Desenvolvedor focado em soluções inovadoras, prezando sempre pela responsividade do código <br>
+    e pela sua semântica, e sempre presente nas novidades do mercado. Um curioso nesse mar do Design. <br>
+    Prezo muito pela satisfação do usuário, então espero que você tenha uma experiência espetacular nesse portfólio. ;)
+  </p>
+</section>
+
+  <!-- Bibliotecas -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="./js/script.js"></script>
+
+  
+</body>
+</html>
