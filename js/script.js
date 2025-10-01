@@ -107,12 +107,12 @@ document.querySelector(".technical-skills").addEventListener("click", function (
 <div class="habilidades">
 <img src="./imagens/html-removebg-preview.png" alt="HTML" class="icone">
 <img src="./imagens/css-3__2_-removebg-preview.png" alt="CSS" class="icone">
-<img src="./imagens/imagem javascript.png" alt="javascript" class="icone">
-<img src="./imagens/imagem react-photoroom.png" alt="React" class="icone"">
+<img src="./imagens/imagem-javascript.png" alt="javascript" class="icone">
+<img src="./imagens/imagem-react-photoroom.png" alt="React" class="icone">
 <img src="./imagens/nodejs-logo-adesivo-sticker-photoroom.png" alt="nodes" class="icone">
-<img src="./imagens/imagem-mongo-db.png" alt="mongodb" class="icone"">
+<img src="./imagens/imagem-mongo-db.png" alt="mongodb" class="icone">
 <img src="./imagens/imagem-github-photoroom.png" alt="GITHUB" class="icone">
-<img src="./imagens/git_imagem.png" alt="GIT" class="icone"">
+<img src="./imagens/git_imagem.png" alt="GIT" class="icone">
 </div>
 `;
 });
