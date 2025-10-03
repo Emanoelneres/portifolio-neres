@@ -534,17 +534,7 @@ font-size: 2rem;
 
     }
 
-
-
-
-
-
-
 }
-
-
-
-
 
 
 @media (max-width:853px){
@@ -900,6 +890,14 @@ font-size: 2rem;
 
 @media (max-width:540px){
 
+
+body{
+overflow-y: auto;
+overflow-x: hidden;
+
+}
+
+
     .paragrafo-apresentacao {
         font-size: 1.600rem;
 
@@ -1001,6 +999,15 @@ font-size: 2rem;
 @media (max-width:490px) {
 
 
+
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
+
+
     .secao-informacao {
         font-size: 1.800rem;
     }
@@ -1072,6 +1079,14 @@ font-size: 2rem;
 
 
 
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
+
+
     .container-apresentacao {
         margin-top: 50%;
 
@@ -1123,6 +1138,16 @@ font-size: 2rem;
 
 }
 @media (max-width:414px) {
+
+
+
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
+
 
 
     .titulo {
@@ -1247,6 +1272,16 @@ font-size: 2rem;
 
 @media (max-width:412px){
 
+
+
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
+
+
     .paragrafo-apresentacao {
         font-size: 1.800rem;
 
@@ -1263,6 +1298,15 @@ font-size: 2rem;
 }
 
 @media (max-width:390px) {
+
+
+
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
 
 
     .paragrafo-apresentacao {
@@ -1289,6 +1333,15 @@ font-size: 2rem;
 }
 
 @media (max-width:375px) {
+
+
+
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
 
 
     #conteudo .apresentacao p {
@@ -1345,6 +1398,14 @@ font-size: 2rem;
 }
 
 @media (max-width:344px) {
+
+
+    body{
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        }
+
 
     .paragrafo-apresentacao {
         font-size: 1.600rem;
